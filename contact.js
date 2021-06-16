@@ -1,5 +1,5 @@
 function onClick() {
-    window.open("mailto:jakehukari@gmail.com", "_blank");
+    window.open("mailto:jake@hukari.xyz", "_blank");
   }
   function onClick2() {
     window.open("https://github.com/Krypt0c", "_blank");
