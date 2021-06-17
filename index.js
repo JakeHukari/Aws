@@ -1,5 +1,5 @@
 function onClick() {
-    window.location.replace("about.html", "_blank");
+    window.location.replace("about", "_blank");
   }
   function onClick2() {
     window.location.replace("contact", "_blank");
