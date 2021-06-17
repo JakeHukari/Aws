@@ -12,5 +12,5 @@ function onClick() {
     window.open("https://www.linkedin.com/in/jake-hukari-9606a420a/", "_blank");
   }
   function Home() {
-      window.location.replace("index.html")
+      window.location.replace("index")
   }
