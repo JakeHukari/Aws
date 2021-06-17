@@ -8,5 +8,5 @@ function onClick() {
     window.open("https://twitter.com/Krypt0c", "_blank");
   }
   function Home() {
-      window.location.replace("index.html")
+      window.location.replace("index")
   }
