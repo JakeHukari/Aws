@@ -8,7 +8,7 @@ function onClick() {
     window.location.replace("hire", "_blank");
   }
   function Home() {
-    window.location.replace("index.html")
+    window.location.replace("index")
   }
 
   if (isMobile()) {
