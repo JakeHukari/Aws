@@ -1,4 +1,4 @@
-function onClick() {
+function about() {
     window.location.replace("about", "_blank");
   }
   function onClick2() {
