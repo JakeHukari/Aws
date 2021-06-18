@@ -1,7 +1,7 @@
 function about() {
     window.location.replace("about", "_blank");
   }
-  function onClick2() {
+  function contact() {
     window.location.replace("contact", "_blank");
   }
   function onClick3() {
