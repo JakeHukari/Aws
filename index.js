@@ -4,7 +4,7 @@ function about() {
   function contact() {
     window.location.replace("contact", "_blank");
   }
-  function onClick3() {
+  function hire() {
     window.location.replace("hire", "_blank");
   }
   function Home() {
