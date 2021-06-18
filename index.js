@@ -8,7 +8,7 @@ function about() {
     window.location.replace("hire", "_blank");
   }
   function projects() {
-    window.location.replace("hire", "_blank");
+    window.location.replace("projects", "_blank");
   }
   function Home() {
     window.location.replace("index")
