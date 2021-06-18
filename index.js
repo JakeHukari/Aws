@@ -7,6 +7,9 @@ function about() {
   function hire() {
     window.location.replace("hire", "_blank");
   }
+  function projects() {
+    window.location.replace("hire", "_blank");
+  }
   function Home() {
     window.location.replace("index")
   }
