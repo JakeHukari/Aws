@@ -1,4 +1,4 @@
-function onClick() {
+function email() {
     window.open("mailto:jake@hukari.xyz", "_blank");
   }
   function onClick2() {
