@@ -1,7 +1,7 @@
 function email() {
     window.open("mailto:jake@hukari.xyz", "_blank");
   }
-  function onClick2() {
+  function github() {
     window.open("https://github.com/Krypt0c", "_blank");
   }
   function onClick3() {
