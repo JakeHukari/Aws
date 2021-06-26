@@ -4,7 +4,7 @@ function email() {
   function github() {
     window.open("https://github.com/Krypt0c", "_blank");
   }
-  function onClick3() {
+  function twitter() {
     window.open(
         "https://twitter.com/Krypt0c", "_blank");
   }
