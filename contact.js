@@ -8,7 +8,7 @@ function email() {
     window.open(
         "https://twitter.com/Krypt0c", "_blank");
   }
-  function onClick4() {
+  function linkedin() {
     window.open("https://www.linkedin.com/in/jake-hukari-9606a420a/", "_blank");
   }
   function Home() {
