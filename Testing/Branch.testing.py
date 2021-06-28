@@ -9,4 +9,4 @@ deloc = int(random.randint(0,255))
 
 print(main + deloc)
 print('RandInt: ' + str(deloc))
-print('Added ' + str(main) + 'which gives us' + main + deloc )
+print('Added ' + str(main) + 'which gives us' + int(main + deloc))
