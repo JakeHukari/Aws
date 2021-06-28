@@ -5,6 +5,6 @@ import os
 main = input()
 deloc = random.randint(0,255)
 
-sys.os('cls')
+os.system('cls')
 print(main)
 print(deloc)
