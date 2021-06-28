@@ -5,6 +5,7 @@ import os
 os.system('cls')
 
 main = int(input("Enter a number: "))
-deloc = int(random.randint(0,255))
+deloc = str(int(random.randint(0,255)))
 
 print(main + deloc)
+print("The random number generated was: " + deloc)
