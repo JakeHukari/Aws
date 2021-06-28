@@ -8,4 +8,4 @@ main = int(input("Enter a number: "))
 deloc = int(random.randint(0,255))
 
 print(main + deloc)
-print('RandInt: ' + (deloc))
+print('RandInt: ' + str(deloc))
