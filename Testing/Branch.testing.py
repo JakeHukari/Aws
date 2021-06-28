@@ -1,3 +1,3 @@
-main = ("Enter a number: ")input()
+main = input()
 
 print(main)
