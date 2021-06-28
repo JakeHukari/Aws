@@ -1,1 +1,1 @@
-input("Test")
+input('main'("Test"))
