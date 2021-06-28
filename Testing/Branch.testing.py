@@ -1,1 +1,1 @@
-input('main'("Test"))
+main = input(
