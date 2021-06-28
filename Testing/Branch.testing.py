@@ -1,6 +1,6 @@
 import random
 import math
-import sys
+import os
 
 main = input()
 deloc = random.randint(0,255)
