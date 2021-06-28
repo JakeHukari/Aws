@@ -4,7 +4,7 @@ import os
 
 os.system('cls')
 
-main = input("Enter a number: ")
+main = int(input("Enter a number: "))
 deloc = random.randint(0,255)
 
 print(main + deloc)
