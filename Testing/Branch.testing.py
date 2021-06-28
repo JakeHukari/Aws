@@ -8,4 +8,3 @@ main = int(input("Enter a number: "))
 deloc = str(int(random.randint(0,255)))
 
 print(main + deloc)
-print("The random number generated was: " + deloc)
