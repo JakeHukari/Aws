@@ -1,9 +1,9 @@
 import random
 import os
+import tweepy
+from tweepy import lib
 
 os.system('cls')
-
-print('log test')
 
 main = int(input("Enter a number: "))
 deloc = int(random.randint(0,256))
