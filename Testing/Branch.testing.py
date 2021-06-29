@@ -10,3 +10,4 @@ print('Added ' + str(main) + ' to ' + str(deloc) + ' which gives us ' + str(int(
 
 if main: int('256')
 os.system('cls')
+print('Aborted')
