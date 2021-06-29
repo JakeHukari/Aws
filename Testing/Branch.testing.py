@@ -8,5 +8,5 @@ deloc = int(random.randint(0,255))
 
 print('Added ' + str(main) + ' to ' + str(deloc) + ' which gives us ' + str(int(main) + int(deloc)))
 
-if main: ('2')
+if main: int('2')
 print('Test')
