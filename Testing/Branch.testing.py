@@ -10,3 +10,4 @@ deloc = int(random.randint(0,256))
 print('Added ' + str(main) + ' to ' + str(deloc) + ' which gives us ' + str(int(main) + int(deloc)))
 
 tweepy.api.get_oembed.__dir__('iterable[str]')
+tweepy.Tweet('test')
