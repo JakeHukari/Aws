@@ -13,3 +13,4 @@ os.system('cls')
 print('Aborted')
 
 if deloc: int('256')
+os.system('cls')
