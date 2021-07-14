@@ -148,7 +148,7 @@ body {
 }
 
 .canvas {
-  background: url("../img/filler.png") center center/cover;
+  background: #fff;
   height: 100%;
   left: 0;
   position: absolute;
