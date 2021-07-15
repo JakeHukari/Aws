@@ -53,7 +53,7 @@ $(document).ready(function() {
       title: 'Color Regognition Bot',
       tag: 'Python bot that recognizes color',
       detail:
-        'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.',
+        'Bot built in python that recognizes color at a user determined location.',
       link: 'https://github.com/Krypt0c/Color-Recognition-Bot'  
       },
     PyRecker: {
