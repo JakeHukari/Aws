@@ -63,7 +63,15 @@ $(document).ready(function() {
       detail:
         'A simple python script to spam web requests, im also working on a JS version of this.',
       link: 'https://github.com/Krypt0c/PyRecker'
-      }
+      },
+    QRG: {
+      title: 'QR Code Generator',
+      tag: 'A qr code generator built with python',
+      detail:
+        'A simple python script to create a qr code.',
+      link: 'https://github.com/Krypt0c/qr-code-generator'
+      }      
+      
   };
 
   $('#gallery .button').on('click', function() {
