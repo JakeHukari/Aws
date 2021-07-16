@@ -33,7 +33,8 @@ $(document).ready(function() {
       title: 'JsTweetBot',
       tag: 'Bot for Twitter built in JS',
       detail:
-        'A Twitter bot that uses Javascript to generate and Tweet a random number.'
+        'A Twitter bot that uses Javascript to generate and Tweet a random number.',
+      link: 'https://www.github.com/Krypt0c/JsTweetBot/'
     },
     CVE: {
       title: 'CVE-2021-3156-PATCHER',
