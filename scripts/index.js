@@ -184,7 +184,7 @@ $(function() {
       e.preventDefault();
   
       $.ajax({
-        url: 'https://discord.com/api/webhooks/850475871667224599/nDqtitlBNEnE7ngUDeDBPJQnll_02y83wDWHG9zBzunAYHyyoTbvWSOU21Yh4USz6YvN',
+        url: 'https://formspree.io/f/meqvlkkq',
         method: 'POST',
         data: { message: $('form').serialize() },
         dataType: 'json'
