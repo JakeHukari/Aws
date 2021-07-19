@@ -200,6 +200,7 @@ $(function() {
       $('#success').removeClass('expand');
     });
   });
+  
 document.addEventListener('keyup', (event) => {
     if (event.key == 'ArrowUp') {
         alert("Hi")
