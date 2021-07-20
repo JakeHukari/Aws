@@ -8,13 +8,6 @@ $(document).ready(function() {
         'This program is perfect for DuckyScripts and Social Engineers who want to quickly and easily install a rat on any Windows computer.',
       link: 'https://github.com/Krypt0c/Logger'
     },
-    ordering: {
-      title: 'ChowNow Ordering Web',
-      tag: 'WHITE-LABEL ONLINE ORDERING SOLUTION.',
-      detail:
-        'ChowNow is a commission-free online ordering system and food ordering app helping restaurants feed their hungry customers.',
-      link: 'https://direct.chownow.com/direct/195/locations/260'
-    },
     Linky: {
       title: 'Linky',
       tag: 'Your new favorite link tool.',
