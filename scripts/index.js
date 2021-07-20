@@ -203,6 +203,6 @@ $(function() {
   
 document.addEventListener('keyup', (event) => {
     if (event.key == 'ArrowUp') {
-        alert("Hi")
+        window.location.replace(dest='home')
     }
 });
