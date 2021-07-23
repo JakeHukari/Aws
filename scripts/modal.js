@@ -29,13 +29,6 @@ $(document).ready(function() {
         'A Twitter bot that uses Javascript to generate and Tweet a random number.',
       link: 'https://www.github.com/Krypt0c/JsTweetBot/'
     },
-    CVE: {
-      title: 'CVE-2021-3156-PATCHER',
-      tag: 'Patching Tool for the 2021-3156 sudo CVE',
-      detail:
-        'This simple bash script will patch the recently discovered sudo heap overflow vulnerability.',
-      link: 'https://github.com/elbee-cyber/CVE-2021-3156-PATCHER'
-    },
     PyTweetBot: {
       title: 'PyTweetBot',
       tag: 'Bot for Twitter built with python',
