@@ -737,7 +737,7 @@ section:nth-of-type(3) #gallery .mix:nth-child(6) .card { /* CRB  */
 section:nth-of-type(3) #gallery .mix:nth-child(7) .card { /* PyRecker  */
   background: url("../img/thumb-8.jpg") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(9) .card {
+section:nth-of-type(3) #gallery .mix:nth-child(8) .card {
   background: url("../img/thumb-9.jpg") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(10) .card {
