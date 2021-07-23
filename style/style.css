@@ -734,9 +734,6 @@ section:nth-of-type(3) #gallery .mix:nth-child(5) .card { /* PTB  */
 section:nth-of-type(3) #gallery .mix:nth-child(6) .card { /* CRB  */
   background: url("../img/thumb-6.jpg") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(7) .card { /* CVE  */
-  background: url("../img/thumb-7.jpg") center center/cover;
-}
 section:nth-of-type(3) #gallery .mix:nth-child(8) .card { /* PyRecker  */
   background: url("../img/thumb-8.jpg") center center/cover;
 }
