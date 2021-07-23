@@ -785,33 +785,6 @@ section:nth-of-type(4) .gradient {
   top: 0;
   width: 100%;
 }
-section:nth-of-type(4) .blog-wrap {
-  cursor: pointer;
-  margin: 0 0 50px 0;
-  padding: 0 2px;
-  width: 100%;
-}
-section:nth-of-type(4) .blog-wrap #thumb-1 {
-  background: url("../img/blog-1.jpg") center center/cover;
-}
-section:nth-of-type(4) .blog-wrap #thumb-2 {
-  background: url("../img/blog-2.jpg") center center/cover;
-}
-section:nth-of-type(4) .blog-wrap #thumb-3 {
-  background: url("../img/blog-3.jpg") center center/cover;
-}
-section:nth-of-type(4) .blog-wrap #thumb-4 {
-  background: url("../img/blog-4.jpg") center center/cover;
-}
-section:nth-of-type(4) .blog-wrap .fade-wrap {
-  transition: opacity 0.3s;
-}
-section:nth-of-type(4) .blog-wrap.fade .fade-wrap {
-  opacity: 0.4;
-}
-section:nth-of-type(4) .blog-wrap.hover .fade-wrap .label {
-  color: #04c2c9;
-}
 section:nth-of-type(4) .label {
   font-size: 12pt;
   line-height: 14pt;
@@ -1149,9 +1122,6 @@ footer .footnote .highlight {
     font-size: 11pt;
     line-height: 15pt;
   }
-  section:nth-of-type(4) .blog-wrap {
-    width: 400px;
-  }
   section:nth-of-type(4) .thumb {
     height: 200px;
   }
@@ -1272,17 +1242,4 @@ footer .footnote .highlight {
     margin: 0 25px;
     padding: 0 40px;
   }
-  section:nth-of-type(4) .blog-wrap {
-    margin: 0 0 50px 20px;
-    opacity: 0;
-    width: 400px;
-  }
-}
-@media screen and (min-width: 1280px) {
-  section:nth-of-type(4) .blog-wrap {
-    margin: 0 0 50px 20px;
-    width: 270px;
-  }
-}
-
 /*# sourceMappingURL=style.css.map */
