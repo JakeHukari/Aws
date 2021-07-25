@@ -185,7 +185,6 @@ $(function() {
   });
   
 document.addEventListener('keyup', (event) => {
-    if (event.key == 'ArrowUp') {
-        dest="home"
+    if (event.key == 'ArrowUp') {     
     }
 });
