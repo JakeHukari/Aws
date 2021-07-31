@@ -539,6 +539,9 @@ section:nth-of-type(2) .skills-wrapper {
   align-items: flex-start;
   width: 100%;
 }
+section:nth-of-type(2) .skills-wrapper .me {
+  height: 200px;
+}
 section:nth-of-type(2) .skills-wrapper .label {
   margin: 20px 0 15px 0;
 }
@@ -1219,6 +1222,9 @@ footer .footnote .highlight {
   }
   section:nth-of-type(2) .skills-wrapper {
     margin: 50px 0 0 0;
+  }
+  section:nth-of-type(2) .skills-wrapper .me {
+    margin: 0;
   }
   section:nth-of-type(2) .bar {
     max-width: 90%;
