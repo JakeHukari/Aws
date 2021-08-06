@@ -14,7 +14,6 @@ $(function() {
       });
     }
   
-    // RESIZE RESETS
     $(window).resize(function() {
       posFilterBar($('.filter').first());
     });
