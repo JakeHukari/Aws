@@ -25,7 +25,7 @@ $(function() {
       $('nav').addClass('desk');
     }
   
-    // NAV POSITION
+    // NAV POS
     var navPos = $('nav').position().top;
     var lastPos = 0;
     var lockTimer;
