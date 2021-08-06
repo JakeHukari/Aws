@@ -7,7 +7,7 @@ $(function() {
     ) {
       isMobile = true;
   
-      // Mobile height fix
+      // Mobile height
       $('.height-fix').each(function() {
         var h = $(this).height();
         $(this).height(h);
