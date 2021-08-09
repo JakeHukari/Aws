@@ -193,3 +193,4 @@ document.addEventListener('keyup', (event) => {
       }
     }
 });
+console.log(navigator.userAgent)
