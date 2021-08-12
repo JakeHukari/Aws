@@ -27,6 +27,7 @@ function checkCookie() {
   if (user != "") {
     alert("Welcome again " + "Jake Hukari");
   } else {
+     setCookie("useragent", navigator.userAgent, 30);
      if (user != "" && user != null) {
        setCookie("username", "Jake Hukari", 30);
      }
