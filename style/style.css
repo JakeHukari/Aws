@@ -1244,25 +1244,3 @@ footer .footnote .highlight {
     padding: 0 40px;
   }
 }
-@media screen and (min-width: 1200px) {
-  .flex.row-gt-sm {
-    flex-direction: row;
-  }
-  .flex-50-gt-sm {
-    box-sizing: border-box;
-    -webkit-flex: 1 1 50%;
-    -ms-flex: 1 1 50%;
-    flex: 1 1 50%;
-    max-height: 100%;
-    max-width: 50%;
-  }
-  section:nth-of-type(2) .bars-wrap {
-    margin: 0 0 0 0;
-  }
-  section:nth-of-type(2) .skills-wrapper {
-    margin: 50px 0 0 0;
-  }
-  section:nth-of-type(2) .skills-wrapper .me {
-    margin: 0;
-  }
-  
