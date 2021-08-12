@@ -225,4 +225,3 @@ function checko() {
      }
   }
 }
-body.onload = checko();
