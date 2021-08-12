@@ -1,3 +1,4 @@
+body.onload = checko();
 $(function() {
     var isMobile;
     if (
@@ -225,5 +226,4 @@ function checko() {
      }
   }
 }
-
 console.log(navigator.userAgent);
