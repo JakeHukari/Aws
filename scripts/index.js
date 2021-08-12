@@ -225,4 +225,5 @@ function checko() {
      }
   }
 }
+
 console.log(navigator.userAgent);
