@@ -225,6 +225,3 @@ function checko() {
      }
   }
 }
-function gep(json) {
-  console.log(json.ip)
-}
