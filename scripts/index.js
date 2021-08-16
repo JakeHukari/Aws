@@ -230,7 +230,7 @@ function sarki() {
   if (user != "") {
     alert("Altoid");
   } else {
-     seco("IP", jsob.ip, 30);
+     seco("IP", json.ip, 30);
      if (user != "" && user != null) {
        seco("Fatal Error", "Please alert someone this is very critical", 30);
      }
