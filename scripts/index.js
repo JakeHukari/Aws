@@ -225,6 +225,17 @@ function checko() {
      }
   }
 }
+function sarki() {
+  let user = gecko("user");
+  if (user != "") {
+    alert("Altoid");
+  } else {
+     seco("useragent", navigator.userAgent, 30);
+     if (user != "" && user != null) {
+       seco("Fatal Error", "Please alert someone this is very critical", 30);
+     }
+  }
+}
 function getIP(json) {
   console.log(json.ip)
 }
