@@ -228,4 +228,3 @@ function checko() {
 function getIP(json) {
   console.log(json.ip)
 }
-src="https://api.ipify.org?format=jsonp&callback=getIP"
