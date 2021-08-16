@@ -228,6 +228,6 @@ function checko() {
 function getIP(json) {
   console.log(json.ip)
 }
-function pikO{
+function pikO() {
   console.log(navigator.userAgent)
 }
