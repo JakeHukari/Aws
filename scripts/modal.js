@@ -36,13 +36,6 @@ $(document).ready(function() {
         'Twitter Bot that generates a random number and tweets it',
       link: 'https://github.com/Krypt0c/PyTweetBot'
       },
-    crb: {
-      title: 'Color Regognition Bot',
-      tag: 'Python bot that recognizes color',
-      detail:
-        'Bot built in python that recognizes color at a user determined location.',
-      link: 'https://github.com/Krypt0c/Color-Recognition-Bot'  
-      },
     PyRecker: {
       title: 'PyRecker',
       tag: 'A simple python script to spam web requests',
