@@ -128,7 +128,7 @@ $(function() {
       }, 2000);
     }
   
-    // SCROLL ANIMATIONS
+    // Scroll Animation
     function onScrollInit(items, elemTrigger) {
       var offset = $(window).height() / 1.6;
       items.each(function() {
