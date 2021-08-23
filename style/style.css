@@ -716,22 +716,22 @@ section:nth-of-type(3) #gallery .mix .button:hover {
   background: #e31b6d;
   color: #fff;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(1) .card { /* Logger */
+section:nth-of-type(3) #gallery .mix:nth-child(1) .card {  
   background: url("../img/thumb-1.jpg") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(2) .card { /* linky */
+section:nth-of-type(3) #gallery .mix:nth-child(2) .card {  
   background: url("../img/thumb-2.jpg") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(3) .card { /* Basilisk */
+section:nth-of-type(3) #gallery .mix:nth-child(3) .card {  
   background: url("../img/thumb-3.jpg") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(4) .card { /* JTB  */
+section:nth-of-type(3) #gallery .mix:nth-child(4) .card {  
   background: url("../img/thumb-4.jpg") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(5) .card { /* PTB  */
+section:nth-of-type(3) #gallery .mix:nth-child(5) .card {  
   background: url("../img/thumb-5.jpg") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(6) .card { /* PyRecker  */
+section:nth-of-type(3) #gallery .mix:nth-child(6) .card {  
   background: url("../img/thumb-8.jpg") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
