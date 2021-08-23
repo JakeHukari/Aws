@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  // MODAL
+  // Modal.js
   var modalText = {
     logger: {
       title: 'logger',
