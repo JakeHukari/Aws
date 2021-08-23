@@ -18,7 +18,7 @@ $(function() {
       posFilterBar($('.filter').first());
     });
   
-    // Sticky Navigation on Mobile
+    // Sticky Navigation Bar on Mobile
     if (isMobile) {
       $('nav').addClass('fixed');
     } else {
