@@ -54,7 +54,7 @@ $(document).ready(function() {
         title: 'Hukari.tech',
         tag: 'This website',
         detail:
-          'A simple python script to create a qr code.',
+          'A personal website I made for my self, probably some of my best work',
         link: 'https://github.com/Krypt0c/qr-code-generator'
         }           
       
