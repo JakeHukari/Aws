@@ -161,7 +161,7 @@ $(function() {
       onScrollInit($('.waypoint'));
     }, 10);
   
-    // CONTACT FORM
+    // Contact Form
     $('#contact-form').submit(function(e) {
       e.preventDefault();
   
