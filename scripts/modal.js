@@ -55,7 +55,7 @@ $(document).ready(function() {
         tag: 'This website',
         detail:
           'A personal website I made for my self, probably some of my best work',
-        link: 'https://github.com/Krypt0c/qr-code-generator'
+        link: 'https://github.com/Krypt0c/AWS'
         }           
       
   };
