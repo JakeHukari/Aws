@@ -51,8 +51,8 @@ $(document).ready(function() {
       link: 'https://github.com/Krypt0c/qr-code-generator'
       },   
       Hukari: {
-        title: 'QR Code Generator',
-        tag: 'A qr code generator built with python',
+        title: 'Hukari.tech',
+        tag: 'This website',
         detail:
           'A simple python script to create a qr code.',
         link: 'https://github.com/Krypt0c/qr-code-generator'
