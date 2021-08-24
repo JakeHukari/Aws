@@ -59,7 +59,7 @@ $(document).ready(function() {
       },
       Hukari: {
         title: 'Game-barrier.games',
-        tag: 'This website',
+        tag: 'Indie Game Company',
         detail:
           'A website I built for a small indie game development company',
         link: 'https://www.game-barrier.games'
