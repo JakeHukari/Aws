@@ -62,7 +62,7 @@ $(document).ready(function() {
         tag: 'This website',
         detail:
           'A website I built for a small indie game development company',
-        link: 'https://www.hukari.tech/'
+        link: 'https://www.game-barrier.games'
         }
   };
 
