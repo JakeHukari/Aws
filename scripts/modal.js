@@ -57,7 +57,7 @@ $(document).ready(function() {
         'A personal website I made for my self, probably some of my best work',
       link: 'https://www.hukari.tech/'
       },
-      Hukari: {
+      GB: {
         title: 'Game-barrier.games',
         tag: 'Indie Game Company',
         detail:
