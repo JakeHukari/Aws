@@ -58,10 +58,10 @@ $(document).ready(function() {
       link: 'https://www.hukari.tech/'
       },
       Hukari: {
-        title: 'Hukari.tech',
+        title: 'Game-barrier.games',
         tag: 'This website',
         detail:
-          'A personal website I made for my self, probably some of my best work',
+          'A website I built for a small indie game development company',
         link: 'https://www.hukari.tech/'
         }
   };
