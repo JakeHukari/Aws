@@ -56,7 +56,7 @@ $(document).ready(function() {
       detail:
         'A personal website I made for my self, probably some of my best work',
       link: 'https://www.hukari.tech/'
-      }           
+      },      
       
   };
 
