@@ -57,7 +57,13 @@ $(document).ready(function() {
         'A personal website I made for my self, probably some of my best work',
       link: 'https://www.hukari.tech/'
       },
-      
+      Hukari: {
+        title: 'Hukari.tech',
+        tag: 'This website',
+        detail:
+          'A personal website I made for my self, probably some of my best work',
+        link: 'https://www.hukari.tech/'
+        }
   };
 
   $('#gallery .button').on('click', function() {
