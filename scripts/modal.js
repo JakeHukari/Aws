@@ -62,7 +62,7 @@ $(document).ready(function() {
         tag: 'Indie Game Company',
         detail:
           'A website I built for a small indie game development company',
-        link: 'https://www.game-barrier.games'
+        link: 'https://game-barrier.games/'
         }
   };
 
