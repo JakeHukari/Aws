@@ -193,6 +193,3 @@ document.addEventListener('keyup', (event) => {
       }
     }
 });
-function pikO() {
-  console.log(navigator.userAgent)
-}
