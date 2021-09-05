@@ -714,7 +714,7 @@ section:nth-of-type(3) #gallery .mix .waypoint {
 }
 section:nth-of-type(3) #gallery .mix .button:hover {
   background: #e31b6d;
-  color: #fff;
+  color: #dcdad7;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(1) .card {
   background: url("../img/thumb-1.jpg") center center/cover;
