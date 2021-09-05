@@ -546,7 +546,7 @@ section:nth-of-type(2) .skills-wrapper .label {
   margin: 20px 0 15px 0;
 }
 section:nth-of-type(2) .hexagon i {
-  color: #fff;
+  color: #dcdad7;
   font-size: 34pt;
   left: 0;
   position: absolute;
