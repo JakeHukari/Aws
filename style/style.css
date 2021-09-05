@@ -851,7 +851,7 @@ section:nth-of-type(5) textarea {
 }
 section:nth-of-type(5) .button {
   background: transparent;
-  color: #fff;
+  color: #dcdad7;
   float: right;
   font-size: 12pt;
   margin: 5px 0 0 0;
