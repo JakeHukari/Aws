@@ -710,7 +710,7 @@ section:nth-of-type(3) #gallery .mix {
   position: relative;
 }
 section:nth-of-type(3) #gallery .mix .waypoint {
-  background: #fff;
+  background: #dcdad7;
 }
 section:nth-of-type(3) #gallery .mix .button:hover {
   background: #e31b6d;
