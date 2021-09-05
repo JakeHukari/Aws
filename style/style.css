@@ -813,7 +813,7 @@ section:nth-of-type(5) .header {
   color: #dcdad7;
 }
 section:nth-of-type(5) .header-bar {
-  background: #fff;
+  background: #dcdad7;
   margin: 25px 0 40px 0;
   width: 110px;
 }
