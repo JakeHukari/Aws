@@ -455,7 +455,7 @@ nav .active {
   visibility: visible;
 }
 .modal-wrap .button:hover {
-  background: #fff;
+  background: #dcdad7;
   color: #e31b6d;
 }
 .modal-wrap .carousel {
