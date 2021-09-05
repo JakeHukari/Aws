@@ -806,7 +806,7 @@ section:nth-of-type(4) .text {
 }
 section:nth-of-type(5) {
   background: #252934;
-  color: #fff;
+  color: #dcdad7;
   padding-top: 175px;
 }
 section:nth-of-type(5) .header {
