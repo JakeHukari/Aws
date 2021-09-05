@@ -486,7 +486,7 @@ section .container {
   width: 100%;
 }
 section:nth-of-type(1) {
-  color: #fff;
+  color: #dcdad7;
   height: calc(100vh + 53px);
   padding: 0 10px;
 }
