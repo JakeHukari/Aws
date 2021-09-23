@@ -185,5 +185,6 @@ $(function() {
   
 document.addEventListener('keyup', (event) => {
     if (event.key == 'ArrowUp') {
+      alert('You pressed the up arrow!');
     }
 });
