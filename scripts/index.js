@@ -195,7 +195,7 @@ document.addEventListener('keydown', (event) => {
   }
 });
 
-document.addEventListener('keyleft', (event) => {
+document.addEventListener('keydown', (event) => {
   if (event.key == 'ArrowLeft') {
     alert('You pressed the left arrow!');
   }
