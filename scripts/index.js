@@ -201,7 +201,7 @@ document.addEventListener('keydown', (event) => {
   }
 });
 
-document.addEventListener('key', (event) => {
+document.addEventListener('keydown', (event) => {
   if (event.key == 'ArrowUp') {
     alert('You pressed the up arrow!');
   }
