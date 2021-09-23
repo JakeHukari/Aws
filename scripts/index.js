@@ -183,8 +183,26 @@ $(function() {
     });
   });
   
-document.addEventListener('keyup', (event) => {
+document.addEventListener('keydown', (event) => {
     if (event.key == 'ArrowUp') {
       alert('You pressed the up arrow!');
     }
+});
+
+document.addEventListener('keydown', (event) => {
+  if (event.key == 'ArrowDown') {
+    alert('You pressed the down arrow!');
+  }
+});
+
+document.addEventListener('keyleft', (event) => {
+  if (event.key == 'ArrowLeft') {
+    alert('You pressed the left arrow!');
+  }
+});
+
+document.addEventListener('key', (event) => {
+  if (event.key == 'ArrowUp') {
+    alert('You pressed the up arrow!');
+  }
 });
