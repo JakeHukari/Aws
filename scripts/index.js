@@ -202,7 +202,7 @@ document.addEventListener('keydown', (event) => {
 });
 
 document.addEventListener('keydown', (event) => {
-  if (event.key == 'ArrowUp') {
-    alert('You pressed the up arrow!');
+  if (event.key == 'ArrowRight') {
+    alert('You pressed the right arrow!');
   }
 });
