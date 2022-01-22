@@ -5,7 +5,7 @@ $(document).ready(function() {
       title: 'logger',
       tag: 'Logger for Windows that disguises itself as a simple .exe file',
       detail:
-        'This program is perfect for DuckyScripts and Social Engineers who want to quickly and easily install a rat on any Windows computer.',
+        'This program is perfect for DuckyScripts and Social Engineers who want to quickly and easily install a remote access tool on any Windows computer.',
       link: 'https://github.com/Krypt0c/Logger'
     },
     Linky: {
