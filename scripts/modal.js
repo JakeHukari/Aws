@@ -12,7 +12,7 @@ $(document).ready(function() {
       title: 'Linky',
       tag: 'Your new favorite link tool.',
       detail:
-        'Linky is a tool you can use to shorten or create custom URLs, this is a great social engineering tool to make links appear as something that they are not..',
+        'Linky is a tool you can use to shorten or create custom URLs, this is a great social engineering tool to make links appear as something that they are not.',
       link: 'https://github.com/Krypt0c/linky'
     },
     Basilisk: {
