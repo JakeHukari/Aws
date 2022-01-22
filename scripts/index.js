@@ -183,26 +183,26 @@ $(function() {
     });
   });
   
-document.addEventListener('keydown', (event) => {
-    if (event.key == 'ArrowUp') {
-      alert('You pressed the up arrow!');
-    }
-});
-
-document.addEventListener('keydown', (event) => {
-  if (event.key == 'ArrowDown') {
-    alert('You pressed the down arrow!');
-  }
-});
-
-document.addEventListener('keydown', (event) => {
-  if (event.key == 'ArrowLeft') {
-    alert('You pressed the left arrow!');
-  }
-});
-
-document.addEventListener('keydown', (event) => {
-  if (event.key == 'ArrowRight') {
-    alert('You pressed the right arrow!');
-  }
-});
+//document.addEventListener('keydown', (event) => {
+//    if (event.key == 'ArrowUp') {
+//      alert('You pressed the up arrow!');
+//    }
+//});
+//
+//document.addEventListener('keydown', (event) => {
+//  if (event.key == 'ArrowDown') {
+//    alert('You pressed the down arrow!');
+//  }
+//});
+//
+//document.addEventListener('keydown', (event) => {
+//  if (event.key == 'ArrowLeft') {
+//    alert('You pressed the left arrow!');
+//  }
+//});
+//
+//document.addEventListener('keydown', (event) => {
+//  if (event.key == 'ArrowRight') {
+//    alert('You pressed the right arrow!');
+//  }
+//});
