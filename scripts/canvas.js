@@ -44,7 +44,7 @@ function floatySpace() {
         var opacity = Math.min( 0.8, 1 - Math.abs( line.getDistanceFromPoint(pt)) / r);
         var distFromMouse = Math.abs(ln.getDistanceFromPoint(mouse))
 
-        if (distFromMouse < 75) {
+        if (distFromMouse < 50) {
           if (pts[i].brightness < 0.3) pts[i].brightness += 0.015
         } else {
           if (pts[i].brightness > 0.1) pts[i].brightness -= 0.01
