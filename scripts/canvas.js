@@ -34,7 +34,7 @@ function floatySpace() {
         // rotate the points slowly
         var pt = pts[i];
 
-        pt.rotate2D( Const.one_degree / 0.01, center);
+        pt.rotate2D( Const.one_degree / 15, center);
         form.stroke( false ).fill( colors[i % 3] ).point(pt, 1);
 
         // get line from pt to the mouse line
@@ -45,7 +45,7 @@ function floatySpace() {
         var distFromMouse = Math.abs(ln.getDistanceFromPoint(mouse))
 
         if (distFromMouse < 50) {
-          if (pts[i].brightness < 0.3) pts[i].brightness += 0.025
+          if (pts[i].brightness < 0.3) pts[i].brightness += 0.02
         } else {
           if (pts[i].brightness > 0.1) pts[i].brightness -= 0.01
         }
