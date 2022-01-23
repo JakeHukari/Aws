@@ -45,7 +45,7 @@ function floatySpace() {
         var distFromMouse = Math.abs(ln.getDistanceFromPoint(mouse))
 
         if (distFromMouse < 50) {
-          if (pts[i].brightness < 0.3) pts[i].brightness += 0.05
+          if (pts[i].brightness < 0.3) pts[i].brightness += 0.025
         } else {
           if (pts[i].brightness > 0.1) pts[i].brightness -= 0.01
         }
